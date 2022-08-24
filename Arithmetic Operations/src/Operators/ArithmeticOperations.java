@@ -7,6 +7,7 @@ public class ArithmeticOperations {
 		        //Addition 
 				int a=23, b=9;
 				int sum = a+b;
+				
 				System.out.println("Addition");
 				System.out.println("a=21, b=32");
 				System.out.println("sum1: "+sum);
